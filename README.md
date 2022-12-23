@@ -4,6 +4,6 @@
 # <div align="center"> Stack </div>
 
 
-# Project
+# <div align="center"> Project </div>
 
-# PS
+# <div align="center"> PS </div>
