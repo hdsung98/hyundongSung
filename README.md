@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Hyundong&nbsp;Sung&animation=fadeIn&20render&fontSize=60)
 
 ## Contact
-**Blog
+**Blog**
 **Email** : hdsung98@gmail.com
 
 # <div align="center"> Stack </div>
