@@ -12,7 +12,7 @@
 
 
 # <div align=center>PS & GitHub Stat</div>
-<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyundongSung&show_icons=true&theme=blue-green)</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyundongSung&show_icons=true&theme=blue-green&align=center)
 
 
 
