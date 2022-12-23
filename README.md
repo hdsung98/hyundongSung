@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient#1&height=400&section=header&text=HyundongSung&animation=fadeIn&20render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=HyundongSung&animation=fadeIn&20render&fontSize=70)
