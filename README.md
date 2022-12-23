@@ -12,7 +12,7 @@
 
 
 ## PS & GitHub Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyundongSung&show_icons=true&theme=blue-green) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyundongSung&show_icons=true&theme=blue-green)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyundongSung&show_icons=true&theme=blue-green)
 
 
 
