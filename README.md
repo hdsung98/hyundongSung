@@ -12,7 +12,7 @@
 
 
 # <div align=center>PS & GitHub Stat</div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyundongSung&show_icons=true&theme=blue-green) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brighteast98)](https://solved.ac/brighteast98/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyundongSung&show_icons=true&theme=blue-green&card-width=450px) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brighteast98)](https://solved.ac/brighteast98/)
 
 
 
