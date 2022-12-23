@@ -4,6 +4,8 @@
 # <div align="center"> Stack </div>
 <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/-#3776AB?style=for-the-badge&logo=C&logoColor=white">
+
 # <div align="center"> Project </div>
 
 # <div align="center"> PS </div>
