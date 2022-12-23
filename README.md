@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Hyundong&nbsp;Sung&animation=fadeIn&20render&fontSize=60)
 
 ## Contact
-- **Blog** :  <a href="" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat-square&logo=Tistory&logoColor=green"/></a>
+- **Blog** :  <a href="" target="_blank"><img src="https://img.shields.io/badge/DevBlog-111111?style=flat-square&logo=Tistory&logoColor=green"/></a>
 - **Email** : hdsung98@gmail.com, hdsung98@naver.com
 - **Instagram** : bright_east98
 - 
