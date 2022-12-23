@@ -2,7 +2,7 @@
 
 ## Contact
 - **Blog** :  <a href="" target="_blank"><img src="https://img.shields.io/badge/DevBlog-123456?style=round-square&logo=Tistory&logoColor=green"/></a>
-- **Email** :<a href="" target="_blank"><img src="https://img.shields.io/badge/hdsung98-EA4335?style=round-square&logo=Gmail&logoColor=white"/></a> hdsung98@naver.com
+- **Email** : <a href="" target="_blank"><img src="https://img.shields.io/badge/hdsung98-EA4335?style=round-square&logo=Gmail&logoColor=white"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/hdsung98-03C75A?style=round-square&logo=Naver&logoColor=white"/></a>
 - **Instagram** :  <a href="" target="_blank"><img src="https://img.shields.io/badge/brighteast_98-E4405F?style=round-square&logo=Instagram&logoColor=white"/></a>
 - 
 # <div align="center"> Stack </div>
