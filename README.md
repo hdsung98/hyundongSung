@@ -16,7 +16,7 @@
 
 
 
-# <div align=center>Contact</div>
+## Contact
 - **Blog** :  <a href="" target="_blank"><img src="https://img.shields.io/badge/DevBlog-123456?style=round-square&logo=Tistory&logoColor=green"/></a>
 - **Email** : <img src="https://img.shields.io/badge/hdsung98-EA4335?style=round-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/hdsung98-03C75A?style=round-square&logo=Naver&logoColor=white"/>
 - **Instagram** :  <a href="" target="_blank"><img src="https://img.shields.io/badge/brighteast_98-E4405F?style=round-square&logo=Instagram&logoColor=white"/></a>
