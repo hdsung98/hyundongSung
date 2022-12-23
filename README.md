@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=250&section=header&text=Hyundong&nbsp;Sung&animation=fadeIn&20render&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=Hyundong&nbsp;Sung&animation=fadeIn&20render&fontSize=60)
 
 
 # <div align="center"> Stack </div>
