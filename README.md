@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Short&nbsp;Info&animation=fadeIn&20render&fontSize=60)
-
+ <div align=center>
 # <div align=center>Stack</div>
 <div align=center><img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/>
 
@@ -23,8 +23,9 @@
 
 
 # <div align=center>PS & GitHub Stat</div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brighteast98)](https://solved.ac/brighteast98/)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brighteast98)](https://solved.ac/brighteast98/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brighteast98)](https://solved.ac/brighteast98/)
 
+</div>
 
 ## Contact
 - **Blog** :  <a href="" target="_blank"><img src="https://img.shields.io/badge/DevBlog-123456?style=round-square&logo=Tistory&logoColor=green"/></a>
