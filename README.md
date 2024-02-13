@@ -23,7 +23,8 @@
 
 
 # <div align=center>PS & GitHub Stat</div>
-  <div align=center>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brighteast98)](https://solved.ac/brighteast98/)</div>
+  <div align=center>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brighteast98)](https://solved.ac/brighteast98/)
+  </div>
 
 
 ## Contact
